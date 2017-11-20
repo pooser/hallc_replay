@@ -67,7 +67,7 @@ void replay_hms_scalers(Int_t RunNumber=0, Int_t MaxEvent=0) {
   // and executes the output routines.
   THcAnalyzer* analyzer = new THcAnalyzer;
 
-  // A simple event class to be output to the resulting tree.
+  // A simple event class to be output to the resulting tree. 
   // Creating your own descendant of THaEvent is one way of
   // defining and controlling the output.
   THaEvent* event = new THaEvent;
