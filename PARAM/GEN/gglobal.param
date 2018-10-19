@@ -1,0 +1,5 @@
+; File to store global parameters
+
+; conversion factor for tdc clicks to ns (CAEN1190 modules)
+; '100 ps' mode, https://logbooks.jlab.org/entry/3574348
+caen1190_convFactor = 0.09766
