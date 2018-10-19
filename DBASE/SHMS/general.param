@@ -9,6 +9,7 @@ cminch=2.54
 #include "PARAM/GEN/gtarget.param"
 #include "PARAM/GEN/gbeam.param"
 #include "PARAM/GEN/gscalers.param"
+#include "PARAM/GEN/gglobal.param"
 
 ; General SHMS parameter files
 ; Note: shmsflags.param includes spectrometer offsets and options.
